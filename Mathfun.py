@@ -8,4 +8,4 @@ def mul_number(x,y):
 	pass 
 
 def div_number(x,y):
-	pass
+	return x/y
